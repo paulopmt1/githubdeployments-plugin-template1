@@ -1,6 +1,6 @@
 # WordPress Plugin Template 1 - no tooling
 
-A template plugin for GitHub deployments forked from [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate).
+A template plugin for GitHub deployments inspired by from [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate).
 
 ## Contents
 

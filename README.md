@@ -15,3 +15,4 @@ With this template you can easily develop your plugin and connect it with our [W
 [screenshot showing the connection]
 
 [video showing how to use it]
+test
